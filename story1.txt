@@ -1,3 +1,3 @@
-To divide 3/16 ÷ 15/32, we will be using the steps of the division of fractions. The first step is to keep the first fraction as it is. Then change the division sign to multiplication sign and at last, flip the second fraction to its reciprocal. This implies 3/16 × 32/15. After simplifying, we get (3 × 32) / (16 × 15) = 2/5.
-
-∴ The value of 3/16 ÷ 15/32 = 2/5
+Meanwhile, the right-hand panel shows an example where A and B are unconditionally dependent: Pr(A) = 40%, Pr(B) = 40% 
+and Pr(AxB) = 25% (rather than 16% as would be required for independence). However, conditioning on the event C restricts 
+the space so that.
