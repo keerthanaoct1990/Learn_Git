@@ -1,0 +1,9 @@
+We know that decimal numbers themselves are a fraction to base 10. We can represent the decimal in the fractional form and 
+then perform the division. 
+For dividing fractions with decimals, follow the steps given below:
+
+Convert the given decimal to a fraction.
+Divide both the fractions.
+Consider the example, 4/5 ÷ 0.5. Here, 0.5 can be written in fractional form as 5/10 or 1/2. 
+Now, divide 4/5 by 1/2. This implies, 4/5 ÷ 1/2 = 4/5 × 2/1 = 8/5. This is how we perform the division of fractions with decimals. 
+Now let us learn how to divide fractions with mixed numbers.
